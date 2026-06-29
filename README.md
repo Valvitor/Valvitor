@@ -72,14 +72,6 @@ Sou orgulhosamente **Jovem-Semente da turma de 2022** do **Instituto Semear**, u
 
 ---
 
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Valvitor&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
-
 ### 🚀 Projetos em destaque
 
 - 💳 **credit-risk-modeling** — Modelo de Credit Scoring (Previsão de Default) com Random Forest
