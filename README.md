@@ -8,6 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=Valvitor&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/valvitor-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/valvitorsantos" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:valvitorscf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🧑‍💻 Sobre mim
@@ -56,6 +68,14 @@ Sou orgulhosamente **Jovem-Semente da turma de 2022** do **Instituto Semear**, u
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valvitor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Valvitor&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
