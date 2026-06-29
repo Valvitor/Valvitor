@@ -24,7 +24,7 @@
 
 ### 🌱 Instituto Semear
 
-Sou orgulhosamente **Jovem-Semente da turma de 2022** do **Instituto Semear**, uma organização que apoia o desenvolvimento de jovens talentos de exatas e engenharias, oferecendo mentoria, capacitação e conexão com o mercado. 💚
+Sou orgulhosamente **Jovem-Semente da turma de 2022** do **Instituto Semear**, uma organização que apoia o desenvolvimento de jovens talentos, oferecendo mentoria, capacitação e conexão com o mercado. 💚
 
 ---
 
@@ -46,12 +46,16 @@ Sou orgulhosamente **Jovem-Semente da turma de 2022** do **Instituto Semear**, u
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valvitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valvitor&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/Valvitor">
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Valvitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/Valvitor">
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Valvitor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valvitor&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valvitor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
