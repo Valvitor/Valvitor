@@ -13,10 +13,18 @@
 ### 🧑‍💻 Sobre mim
 
 - 🌎 Sou de **Campo Formoso - BA, Brasil**
+- 🌱 **Jovem-Semente 2022** do **Instituto Semear** — programa de desenvolvimento de jovens talentos
 - 📊 Apaixonado por **Ciência de Dados**, **Machine Learning** e **Análise de Risco**
-- 🌱 Atualmente aprofundando meus conhecimentos em **Python** e **modelagem de dados**
+- 🤖 Curto **automatizar processos** e uso **ferramentas de Inteligência Artificial** para acelerar meu aprendizado e atingir objetivos
 - 💡 Gosto de transformar dados em decisões inteligentes
 - 📈 Projetos com foco em **risco de crédito**, **competições Kaggle** e **análise macroeconômica do Brasil**
+- 🎯 Meu objetivo: **mergulhar cada vez mais no universo de dados e IA**
+
+---
+
+### 🌱 Instituto Semear
+
+Sou orgulhosamente **Jovem-Semente da turma de 2022** do **Instituto Semear**, uma organização que apoia o desenvolvimento de jovens talentos de exatas e engenharias, oferecendo mentoria, capacitação e conexão com o mercado. 💚
 
 ---
 
